@@ -61,7 +61,7 @@ body {
 /* div ki 4 h1 aur p  */
 
 h1 {
-    font-size: 2.5vw;
+    /* font-size: 2.vw; */
     margin-inline-start: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-transform: uppercase;
