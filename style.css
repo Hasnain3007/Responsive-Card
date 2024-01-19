@@ -1,0 +1,165 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: gray;
+    text-transform: capitalize
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+    /* display: flex; */
+
+}
+
+/* div k 4 box  */
+.box {
+    background-color: white;
+    margin-top: 25px;
+    border-radius: 10px;
+    margin-left: 67px;
+    float: left;
+    width: 250px;
+    height: 490px;
+    border: 2px dashed black;
+    /* box-shadow: 5px 5px black; */
+}
+
+#rel {
+    width: 250px;
+    height: 490px;
+    position: relative;
+    top: 60px;
+}
+
+#rel1 {
+    width: 250px;
+    height: 490px;
+    position: relative;
+    top: 60px;
+
+}
+
+/* div k 4 box khtm  */
+
+/* div ki 4 img  */
+
+.img {
+    /* box-sizing: border-box; */
+    width: 100%;
+    /* height: 170px; */
+    border-radius: 10px 10px 0px 0px;
+    /* padding: 2px; */
+}
+
+/* div ki 4 img khtm */
+
+/* div ki 4 h1 aur p  */
+
+h1 {
+    font-size: 2.5vw;
+    margin-inline-start: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    color: gray;
+
+}
+
+p {
+    padding-left: 10px;
+    color: black;
+}
+
+/* div ki 4 h1 aur p khtm */
+
+/* div person detials */
+
+.choti {
+    margin-top: 10px;
+    padding: 3px;
+    width: 50px;
+    border-radius: 100%;
+    display: inline;
+}
+
+h4 {
+    display: inline-block;
+    position: relative;
+    /* left: 0px; */
+    bottom: 30px;
+}
+
+.para {
+    position: relative;
+    left: 50px;
+    bottom: 30px;
+    color: blue;
+
+}
+
+.para1 {
+    color: green;
+    position: relative;
+    left: 50px;
+    bottom: 30px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* div person detials khtm */
+
+/* div ki 2 btn */
+
+
+.rr {
+    background-color: gray;
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 50px;
+    /* margin-top: 30px; */
+    margin-left: 46px;
+}
+
+.rr:hover {
+    border: 2px solid gray;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+/* div ki 2 btn khtm */
+
+/* div ki 2 rel wali btn */
+
+.rrr {
+    color: white;
+    background-color: gray;
+    position: relative;
+    bottom: 10px;
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 50px;
+    margin-bottom: 70px;
+    margin-left: 46px;
+}
+
+.rrr:hover {
+    border: 2px solid gray;
+    background-color: white;
+    color: black;
+    margin-bottom: 200px;
+    cursor: pointer;
+}
+
+/* div ki 2 rel wali btn khtm */
