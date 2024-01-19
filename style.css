@@ -52,16 +52,19 @@ body {
     /* box-sizing: border-box; */
     width: 100%;
     /* height: 170px; */
-    border-radius: 10px 10px 0px 0px;
+    /* border-radius: 10px 10px 0px 0px; */
     /* padding: 2px; */
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
+
 
 /* div ki 4 img khtm */
 
 /* div ki 4 h1 aur p  */
 
 h1 {
-    /* font-size: 2.vw; */
+    font-size: 30px;
     margin-inline-start: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-transform: uppercase;
